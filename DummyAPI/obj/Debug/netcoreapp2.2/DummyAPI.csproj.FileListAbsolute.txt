@@ -1,0 +1,13 @@
+D:\Tacing\TracingDemoApplication\DummyAPI\bin\Debug\netcoreapp2.2\DummyAPI.deps.json
+D:\Tacing\TracingDemoApplication\DummyAPI\bin\Debug\netcoreapp2.2\DummyAPI.runtimeconfig.json
+D:\Tacing\TracingDemoApplication\DummyAPI\bin\Debug\netcoreapp2.2\DummyAPI.runtimeconfig.dev.json
+D:\Tacing\TracingDemoApplication\DummyAPI\bin\Debug\netcoreapp2.2\DummyAPI.dll
+D:\Tacing\TracingDemoApplication\DummyAPI\bin\Debug\netcoreapp2.2\DummyAPI.pdb
+D:\Tacing\TracingDemoApplication\DummyAPI\obj\Debug\netcoreapp2.2\DummyAPI.csproj.CoreCompileInputs.cache
+D:\Tacing\TracingDemoApplication\DummyAPI\obj\Debug\netcoreapp2.2\DummyAPI.RazorAssemblyInfo.cache
+D:\Tacing\TracingDemoApplication\DummyAPI\obj\Debug\netcoreapp2.2\DummyAPI.RazorAssemblyInfo.cs
+D:\Tacing\TracingDemoApplication\DummyAPI\obj\Debug\netcoreapp2.2\DummyAPI.AssemblyInfoInputs.cache
+D:\Tacing\TracingDemoApplication\DummyAPI\obj\Debug\netcoreapp2.2\DummyAPI.AssemblyInfo.cs
+D:\Tacing\TracingDemoApplication\DummyAPI\obj\Debug\netcoreapp2.2\DummyAPI.RazorTargetAssemblyInfo.cache
+D:\Tacing\TracingDemoApplication\DummyAPI\obj\Debug\netcoreapp2.2\DummyAPI.dll
+D:\Tacing\TracingDemoApplication\DummyAPI\obj\Debug\netcoreapp2.2\DummyAPI.pdb

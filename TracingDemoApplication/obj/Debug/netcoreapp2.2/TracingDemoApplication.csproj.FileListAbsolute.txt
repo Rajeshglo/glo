@@ -1,0 +1,13 @@
+D:\Tacing\TracingDemoApplication\TracingDemoApplication\bin\Debug\netcoreapp2.2\TracingDemoApplication.deps.json
+D:\Tacing\TracingDemoApplication\TracingDemoApplication\bin\Debug\netcoreapp2.2\TracingDemoApplication.runtimeconfig.json
+D:\Tacing\TracingDemoApplication\TracingDemoApplication\bin\Debug\netcoreapp2.2\TracingDemoApplication.runtimeconfig.dev.json
+D:\Tacing\TracingDemoApplication\TracingDemoApplication\bin\Debug\netcoreapp2.2\TracingDemoApplication.dll
+D:\Tacing\TracingDemoApplication\TracingDemoApplication\bin\Debug\netcoreapp2.2\TracingDemoApplication.pdb
+D:\Tacing\TracingDemoApplication\TracingDemoApplication\obj\Debug\netcoreapp2.2\TracingDemoApplication.csproj.CoreCompileInputs.cache
+D:\Tacing\TracingDemoApplication\TracingDemoApplication\obj\Debug\netcoreapp2.2\TracingDemoApplication.RazorAssemblyInfo.cache
+D:\Tacing\TracingDemoApplication\TracingDemoApplication\obj\Debug\netcoreapp2.2\TracingDemoApplication.RazorAssemblyInfo.cs
+D:\Tacing\TracingDemoApplication\TracingDemoApplication\obj\Debug\netcoreapp2.2\TracingDemoApplication.AssemblyInfoInputs.cache
+D:\Tacing\TracingDemoApplication\TracingDemoApplication\obj\Debug\netcoreapp2.2\TracingDemoApplication.AssemblyInfo.cs
+D:\Tacing\TracingDemoApplication\TracingDemoApplication\obj\Debug\netcoreapp2.2\TracingDemoApplication.RazorTargetAssemblyInfo.cache
+D:\Tacing\TracingDemoApplication\TracingDemoApplication\obj\Debug\netcoreapp2.2\TracingDemoApplication.dll
+D:\Tacing\TracingDemoApplication\TracingDemoApplication\obj\Debug\netcoreapp2.2\TracingDemoApplication.pdb

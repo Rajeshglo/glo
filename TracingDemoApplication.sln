@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TracingDemoApplication", "TracingDemoApplication\TracingDemoApplication.csproj", "{414C5B05-C79C-4458-882F-6B81755E8080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DummyAPI", "DummyAPI\DummyAPI.csproj", "{04FD7C4D-D954-4C92-A510-791C9BE8819A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{414C5B05-C79C-4458-882F-6B81755E8080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414C5B05-C79C-4458-882F-6B81755E8080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414C5B05-C79C-4458-882F-6B81755E8080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414C5B05-C79C-4458-882F-6B81755E8080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04FD7C4D-D954-4C92-A510-791C9BE8819A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FD7C4D-D954-4C92-A510-791C9BE8819A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FD7C4D-D954-4C92-A510-791C9BE8819A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FD7C4D-D954-4C92-A510-791C9BE8819A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA19F0D2-97F6-4C1A-B21A-89CCB9216365}
+	EndGlobalSection
+EndGlobal
